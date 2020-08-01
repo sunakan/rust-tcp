@@ -1,1 +1,11 @@
 = RustでTCP
+
+== ドキュメント
+
+----
+$ cd docs
+$ make docs
+$ make nginx
+----
+
+* ブラウザで見る
